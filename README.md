@@ -2,5 +2,5 @@
 
 ---
 
-[x] git clone
-[x] git push
+* [x] git clone
+* [x] git push

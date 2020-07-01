@@ -1,4 +1,4 @@
-# Repository for testing git functions
+## Repository for testing git functions
 
 ---
 
